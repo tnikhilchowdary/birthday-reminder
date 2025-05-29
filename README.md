@@ -2,11 +2,13 @@
 
 A simple React project to display birthday reminders in a clean UI.
 
-## 📸 Screenshot
+## Screenshot
+
 
 ![Birthday Reminder Screenshot](./screenshot.png)
 
-## 🚀 Features
+
+##  Features
 
 - List of people with birthdays
 - Circular image display
