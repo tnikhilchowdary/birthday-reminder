@@ -10,6 +10,7 @@ A simple React project to display birthday reminders in a clean UI.
 
 
 
+
 ##  Features
 
 - List of people with birthdays
