@@ -5,7 +5,7 @@ A simple React project to display birthday reminders in a clean UI.
 ## Screenshot
 
 
-![Birthday Reminder Screenshot](.src/screenshot.png)
+![Birthday Reminder Screenshot](src/screenshot.png)
 
 
 
